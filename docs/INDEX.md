@@ -15,6 +15,7 @@ This repository is in **discovery-only mode**. No application implementation is 
 - [Market and competitor research](01-market/MARKET-AND-COMPETITOR-RESEARCH.md)
 - [Competitor comparison](01-market/COMPETITOR-COMPARISON.md)
 - [Parent/caregiver research plan](01-market/PARENT-RESEARCH-PLAN.md)
+- [Caregiver interview guide](01-market/CAREGIVER-INTERVIEW-GUIDE.md)
 
 ## Experience and architecture
 - [UX principles and journeys](02-ux/UX-PRINCIPLES-AND-JOURNEYS.md)
@@ -32,7 +33,9 @@ This repository is in **discovery-only mode**. No application implementation is 
 ## Business, launch, and trust
 - [Pricing and unit economics](05-business/PRICING-AND-UNIT-ECONOMICS.md)
 - [AI story cost model template](05-business/COST-MODEL-TEMPLATE.md)
+- [Illustrative story unit economics](05-business/UNIT-ECONOMICS-WORKED-EXAMPLE.md)
 - [Provisional roadmap](06-roadmap/PROVISIONAL-ROADMAP.md)
+- [Validation plan and milestones](06-roadmap/VALIDATION-PLAN-AND-MILESTONES.md)
 - [Go-to-market and marketing](07-launch/GO-TO-MARKET-AND-MARKETING.md)
 - [Child safety, privacy, and compliance](08-trust/CHILD-SAFETY-PRIVACY-AND-COMPLIANCE.md)
 
