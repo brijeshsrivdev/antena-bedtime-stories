@@ -14,11 +14,13 @@ This repository is in **discovery-only mode**. No application implementation is 
 ## Market and caregiver research
 - [Market and competitor research](01-market/MARKET-AND-COMPETITOR-RESEARCH.md)
 - [Competitor comparison](01-market/COMPETITOR-COMPARISON.md)
+- [Competitor strategy and differentiation hypotheses](01-market/COMPETITOR-STRATEGY-AND-DIFFERENTIATION.md)
 - [Parent/caregiver research plan](01-market/PARENT-RESEARCH-PLAN.md)
 - [Caregiver interview guide](01-market/CAREGIVER-INTERVIEW-GUIDE.md)
 
 ## Experience and architecture
 - [UX principles and journeys](02-ux/UX-PRINCIPLES-AND-JOURNEYS.md)
+- [Proposed MVP journeys and edge states](02-ux/PROPOSED-MVP-JOURNEYS-AND-EDGE-STATES.md)
 - [Architecture options](03-architecture/ARCHITECTURE-OPTIONS.md)
 - [AI provider evaluation plan](03-architecture/AI-PROVIDER-EVALUATION.md)
 - [Audio storytelling quality bar](03-architecture/AUDIO-EXPERIENCE-QUALITY-BAR.md)
@@ -38,6 +40,7 @@ This repository is in **discovery-only mode**. No application implementation is 
 - [Validation plan and milestones](06-roadmap/VALIDATION-PLAN-AND-MILESTONES.md)
 - [Go-to-market and marketing](07-launch/GO-TO-MARKET-AND-MARKETING.md)
 - [Child safety, privacy, and compliance](08-trust/CHILD-SAFETY-PRIVACY-AND-COMPLIANCE.md)
+- [Threat model and data-flow inventory](08-trust/THREAT-MODEL-AND-DATA-MAP.md)
 
 ## Status
 All documents are working drafts. Parent research, provider benchmarks, jurisdiction-specific legal review, detailed acceptance criteria, and final architecture decisions remain open. Hypotheses must not be represented as approved decisions.
