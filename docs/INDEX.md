@@ -37,6 +37,7 @@ This repository is in **discovery-only mode**. No application implementation is 
 - [Provider and platform research snapshot](03-architecture/PROVIDER-AND-PLATFORM-RESEARCH-SNAPSHOT.md)
 - [Low-cost AI strategy and Google model decision](03-architecture/LOW-COST-AI-STRATEGY-AND-GOOGLE-MODEL-DECISION.md)
 - [Open-weight story model benchmark worksheet](03-architecture/OPEN-WEIGHT-STORY-MODEL-BENCHMARK-WORKSHEET.md)
+- [Open-weight candidate shortlist and low-budget test plan](03-architecture/OPEN-WEIGHT-CANDIDATE-SHORTLIST-AND-LOW-BUDGET-TEST-PLAN.md)
 - [Architecture decision register](03-architecture/ARCHITECTURE-DECISIONS-REGISTER.md)
 
 ## Requirements and delivery
