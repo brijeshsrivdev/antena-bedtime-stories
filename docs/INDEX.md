@@ -6,6 +6,7 @@ This repository is in **discovery-only mode**. No application implementation is 
 - [Product discovery charter](00-discovery/PRODUCT-DISCOVERY-CHARTER.md)
 - [Workstreams and approval gates](00-discovery/WORKSTREAMS-AND-GATES.md)
 - [Discovery exit criteria](00-discovery/DISCOVERY-EXIT-CRITERIA.md)
+- [Blueprint review and approval register](00-discovery/BLUEPRINT-REVIEW-REGISTER.md)
 - [Consolidated product blueprint](00-discovery/CONSOLIDATED-PRODUCT-BLUEPRINT.md)
 - [Open questions and research backlog](00-discovery/OPEN-QUESTIONS-AND-RESEARCH-BACKLOG.md)
 - [Decision log](00-discovery/DECISION-LOG.md)
@@ -27,6 +28,7 @@ This repository is in **discovery-only mode**. No application implementation is 
 - [AI provider evaluation plan](03-architecture/AI-PROVIDER-EVALUATION.md)
 - [Audio storytelling quality bar](03-architecture/AUDIO-EXPERIENCE-QUALITY-BAR.md)
 - [Provider proof of concept and scorecard](03-architecture/PROVIDER-POC-AND-SCORECARD.md)
+- [Reproducible audio benchmark protocol](03-architecture/AUDIO-BENCHMARK-PROTOCOL.md)
 - [Provider and platform research snapshot](03-architecture/PROVIDER-AND-PLATFORM-RESEARCH-SNAPSHOT.md)
 - [Architecture decision register](03-architecture/ARCHITECTURE-DECISIONS-REGISTER.md)
 
@@ -44,6 +46,8 @@ This repository is in **discovery-only mode**. No application implementation is 
 - [Provisional roadmap](06-roadmap/PROVISIONAL-ROADMAP.md)
 - [Validation plan and milestones](06-roadmap/VALIDATION-PLAN-AND-MILESTONES.md)
 - [Go-to-market and marketing](07-launch/GO-TO-MARKET-AND-MARKETING.md)
+- [Content and acquisition experiments](07-launch/CONTENT-AND-ACQUISITION-EXPERIMENTS.md)
+- [Private beta and launch readiness](07-launch/PRIVATE-BETA-AND-LAUNCH-READINESS.md)
 - [Child safety, privacy, and compliance](08-trust/CHILD-SAFETY-PRIVACY-AND-COMPLIANCE.md)
 - [Threat model and data-flow inventory](08-trust/THREAT-MODEL-AND-DATA-MAP.md)
 
