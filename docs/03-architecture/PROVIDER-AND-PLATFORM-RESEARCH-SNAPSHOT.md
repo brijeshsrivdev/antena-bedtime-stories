@@ -71,3 +71,18 @@ Apple's Kids Category uses age bands and parental gates for certain actions. Its
 ## Evidence limitations
 
 This is desk research, not legal advice or a completed vendor due-diligence exercise. Public pages do not settle data-processing terms, voice ownership, generated-output rights, or the specific treatment of a child-directed service. These require current contract and policy review.
+
+
+## Fresh verification note — 12 October 2026
+
+Official public pages were checked again on 12 October 2026:
+
+- [Gemini API pricing](https://ai.google.dev/gemini-api/docs/pricing.md) currently shows the `gemini-3.8-flash-lite-tts` Standard paid tier at $0.50 per 1M text tokens and $6.00 per 1M audio tokens through 31 December 2026, with listed rates doubling on 1 January 2027. The page estimates audio output at 25 tokens/second, or about $0.0015 per 10 seconds at the current listed audio-token rate. This is **not** a full story cost: input text, planning, retries, safety checks, mixing, music/effects, storage, and delivery must be added. Verify model availability and applicable account/region terms before testing.
+- [ElevenLabs API pricing](https://elevenlabs.io/pricing/api) lists TTS from $0.05 per 1,000 characters for Flash/Turbo and $0.10 for some expressive/long-form models; music at $0.15 per minute; sound effects at $0.12 per minute. These meters are not directly comparable with Gemini's token-based audio rates. Taxes are excluded from the listed prices.
+- [Google Play Families guidance](https://support.google.com/googleplay/android-developer/answer/9893335) and [Apple Kids guidance](https://developer.apple.com/kids/) were rechecked. Target-audience declarations, SDK/provider data practices, parental gates, and child-data handling need to be designed together; a parental gate alone does not establish legal consent.
+
+### Decision impact
+
+1. Include the announced 1 January 2027 Gemini pricing change in any forward-looking cost model; do not base subscription margin on today's rates alone.
+2. Benchmark end-to-end cost per accepted minute and per completed story, including failed/rejected attempts—not just vendor headline pricing.
+3. Keep provider selection **open**. No benchmark audio, account-specific access check, commercial contract review, or legal sign-off has been completed by this desk research.
