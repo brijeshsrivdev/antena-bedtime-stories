@@ -6,6 +6,7 @@ This repository is in **discovery-only mode**. No application implementation is 
 - [Product discovery charter](00-discovery/PRODUCT-DISCOVERY-CHARTER.md)
 - [Workstreams and approval gates](00-discovery/WORKSTREAMS-AND-GATES.md)
 - [Discovery exit criteria](00-discovery/DISCOVERY-EXIT-CRITERIA.md)
+- [Consolidated product blueprint](00-discovery/CONSOLIDATED-PRODUCT-BLUEPRINT.md)
 - [Open questions and research backlog](00-discovery/OPEN-QUESTIONS-AND-RESEARCH-BACKLOG.md)
 - [Decision log](00-discovery/DECISION-LOG.md)
 - [Research register](00-discovery/RESEARCH-REGISTER.md)
