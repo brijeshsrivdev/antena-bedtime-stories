@@ -7,6 +7,7 @@ This repository is in **discovery-only mode**. No application implementation is 
 - [Workstreams and approval gates](00-discovery/WORKSTREAMS-AND-GATES.md)
 - [Discovery exit criteria](00-discovery/DISCOVERY-EXIT-CRITERIA.md)
 - [Discovery status report](00-discovery/DISCOVERY-STATUS-REPORT.md)
+- [Next actions and dependencies](00-discovery/NEXT-ACTIONS-AND-DEPENDENCIES.md)
 - [Blueprint review and approval register](00-discovery/BLUEPRINT-REVIEW-REGISTER.md)
 - [Consolidated product blueprint](00-discovery/CONSOLIDATED-PRODUCT-BLUEPRINT.md)
 - [Open questions and research backlog](00-discovery/OPEN-QUESTIONS-AND-RESEARCH-BACKLOG.md)
@@ -20,6 +21,8 @@ This repository is in **discovery-only mode**. No application implementation is 
 - [Competitor strategy and differentiation hypotheses](01-market/COMPETITOR-STRATEGY-AND-DIFFERENTIATION.md)
 - [Parent/caregiver research plan](01-market/PARENT-RESEARCH-PLAN.md)
 - [Caregiver interview guide](01-market/CAREGIVER-INTERVIEW-GUIDE.md)
+- [Caregiver recruitment and consent](01-market/CAREGIVER-RECRUITMENT-AND-CONSENT.md)
+- [Caregiver research tracker template](01-market/CAREGIVER-RESEARCH-TRACKER-TEMPLATE.md)
 
 ## Experience and architecture
 - [UX principles and journeys](02-ux/UX-PRINCIPLES-AND-JOURNEYS.md)
@@ -30,6 +33,7 @@ This repository is in **discovery-only mode**. No application implementation is 
 - [Audio storytelling quality bar](03-architecture/AUDIO-EXPERIENCE-QUALITY-BAR.md)
 - [Provider proof of concept and scorecard](03-architecture/PROVIDER-POC-AND-SCORECARD.md)
 - [Reproducible audio benchmark protocol](03-architecture/AUDIO-BENCHMARK-PROTOCOL.md)
+- [Audio benchmark script brief](03-architecture/AUDIO-BENCHMARK-SCRIPT-BRIEF.md)
 - [Provider and platform research snapshot](03-architecture/PROVIDER-AND-PLATFORM-RESEARCH-SNAPSHOT.md)
 - [Architecture decision register](03-architecture/ARCHITECTURE-DECISIONS-REGISTER.md)
 
