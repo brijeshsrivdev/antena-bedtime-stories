@@ -22,6 +22,7 @@ This repository is in **discovery-only mode**. No application implementation is 
 - [UX principles and journeys](02-ux/UX-PRINCIPLES-AND-JOURNEYS.md)
 - [Proposed MVP journeys and edge states](02-ux/PROPOSED-MVP-JOURNEYS-AND-EDGE-STATES.md)
 - [Architecture options](03-architecture/ARCHITECTURE-OPTIONS.md)
+- [Proposed target architecture](03-architecture/PROPOSED-TARGET-ARCHITECTURE.md)
 - [AI provider evaluation plan](03-architecture/AI-PROVIDER-EVALUATION.md)
 - [Audio storytelling quality bar](03-architecture/AUDIO-EXPERIENCE-QUALITY-BAR.md)
 - [Provider proof of concept and scorecard](03-architecture/PROVIDER-POC-AND-SCORECARD.md)
@@ -30,12 +31,15 @@ This repository is in **discovery-only mode**. No application implementation is 
 
 ## Requirements and delivery
 - [Initial requirements catalogue](04-requirements/INITIAL-REQUIREMENTS-CATALOGUE.md)
+- [Proposed MVP scope and priorities](04-requirements/PROPOSED-MVP-SCOPE-AND-PRIORITIES.md)
+- [Proposed MVP requirements baseline](04-requirements/PROPOSED-MVP-REQUIREMENTS-BASELINE.md)
 - [Requirements traceability and acceptance framework](04-requirements/REQUIREMENTS-TRACEABILITY-AND-ACCEPTANCE.md)
 
 ## Business, launch, and trust
 - [Pricing and unit economics](05-business/PRICING-AND-UNIT-ECONOMICS.md)
 - [AI story cost model template](05-business/COST-MODEL-TEMPLATE.md)
 - [Illustrative story unit economics](05-business/UNIT-ECONOMICS-WORKED-EXAMPLE.md)
+- [Caregiver pricing experiment plan](05-business/PRICING-EXPERIMENT-PLAN.md)
 - [Provisional roadmap](06-roadmap/PROVISIONAL-ROADMAP.md)
 - [Validation plan and milestones](06-roadmap/VALIDATION-PLAN-AND-MILESTONES.md)
 - [Go-to-market and marketing](07-launch/GO-TO-MARKET-AND-MARKETING.md)
