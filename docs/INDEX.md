@@ -22,6 +22,7 @@ This repository is in **discovery-only mode**. No application implementation is 
 - [AI provider evaluation plan](03-architecture/AI-PROVIDER-EVALUATION.md)
 - [Audio storytelling quality bar](03-architecture/AUDIO-EXPERIENCE-QUALITY-BAR.md)
 - [Provider proof of concept and scorecard](03-architecture/PROVIDER-POC-AND-SCORECARD.md)
+- [Provider and platform research snapshot](03-architecture/PROVIDER-AND-PLATFORM-RESEARCH-SNAPSHOT.md)
 - [Architecture decision register](03-architecture/ARCHITECTURE-DECISIONS-REGISTER.md)
 
 ## Requirements and delivery
