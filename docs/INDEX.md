@@ -35,6 +35,7 @@ This repository is in **discovery-only mode**. No application implementation is 
 - [Reproducible audio benchmark protocol](03-architecture/AUDIO-BENCHMARK-PROTOCOL.md)
 - [Audio benchmark script brief](03-architecture/AUDIO-BENCHMARK-SCRIPT-BRIEF.md)
 - [Provider and platform research snapshot](03-architecture/PROVIDER-AND-PLATFORM-RESEARCH-SNAPSHOT.md)
+- [Low-cost AI strategy and Google model decision](03-architecture/LOW-COST-AI-STRATEGY-AND-GOOGLE-MODEL-DECISION.md)
 - [Architecture decision register](03-architecture/ARCHITECTURE-DECISIONS-REGISTER.md)
 
 ## Requirements and delivery
